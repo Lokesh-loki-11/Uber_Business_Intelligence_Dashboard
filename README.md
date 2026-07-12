@@ -1,10 +1,10 @@
-# 🚖 Uber Business Intelligence Dashboard
+# Uber Business Intelligence Dashboard
 
 > An end-to-end Business Intelligence solution built using **Power BI** to analyze over **103K Uber trip records**, providing actionable insights into booking trends, revenue, customer demand, vehicle performance, and operational efficiency.
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 The Uber Business Intelligence Dashboard was developed to help stakeholders monitor business performance through interactive visualizations and KPI reporting.
 
@@ -14,7 +14,7 @@ This solution demonstrates the complete Business Intelligence workflow, includin
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 Uber generates thousands of trip records every day, making it difficult for business users to identify booking trends, monitor operational performance, and make data-driven decisions using raw data alone.
 
@@ -30,7 +30,7 @@ The objective of this project is to build an interactive Power BI dashboard that
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 - Analyze booking trends across different time periods
 - Monitor business KPIs through interactive dashboards
@@ -43,7 +43,7 @@ The objective of this project is to build an interactive Power BI dashboard that
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -56,7 +56,7 @@ The objective of this project is to build an interactive Power BI dashboard that
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 | Attribute | Details |
 |-----------|---------|
@@ -68,9 +68,9 @@ The objective of this project is to build an interactive Power BI dashboard that
 
 ---
 
-# 📈 Dashboard Pages
+# Dashboard Pages
 
-## 1️⃣ Overview Dashboard
+##  Overview Dashboard
 
 Provides an executive summary of Uber business performance.
 
@@ -95,7 +95,7 @@ Provides an executive summary of Uber business performance.
 
 ---
 
-## 2️⃣ Time Analysis Dashboard
+##  Time Analysis Dashboard
 
 Analyzes customer demand over time.
 
@@ -111,7 +111,7 @@ Business users can quickly identify high-demand hours for better driver allocati
 
 ---
 
-## 3️⃣ Details Dashboard
+##  Details Dashboard
 
 Provides transaction-level analysis through drill-through functionality.
 
@@ -125,7 +125,7 @@ Features include:
 
 ---
 
-# ⭐ Key Features
+# Key Features
 
 - Interactive KPI Dashboard
 - Dynamic Measure Selector
@@ -141,7 +141,7 @@ Features include:
 
 ---
 
-# 🧠 Data Model
+# Data Model
 
 The dashboard follows a **Star Schema** to improve query performance and simplify analytical reporting.
 
@@ -178,7 +178,7 @@ Using a dimensional model improves report scalability, performance, and filter p
 
 ---
 
-# 📐 DAX Highlights
+# DAX Highlights
 
 The dashboard makes extensive use of DAX for KPI calculations and dynamic reporting.
 
@@ -214,7 +214,7 @@ The dashboard makes extensive use of DAX for KPI calculations and dynamic report
 
 ---
 
-# 📊 Business Insights
+# Business Insights
 
 ### 🚖 Booking & Demand Analysis
 
@@ -222,27 +222,27 @@ The dashboard makes extensive use of DAX for KPI calculations and dynamic report
 - **3:00 PM was the busiest booking hour with 7,908 trips**, highlighting peak demand during afternoon hours and supporting dynamic pricing and workforce planning.
 - **4:00 AM recorded the lowest booking volume with only 331 trips**, representing off-peak demand and potential opportunities to optimize driver scheduling.
 
-### 🚘 Vehicle Performance
+### Vehicle Performance
 
 - **UberX emerged as the most preferred vehicle category**, generating the highest number of bookings as well as the highest booking revenue, making it the primary contributor to overall business performance.
 - Customer preference for **UberX** indicates strong demand for cost-effective ride options compared to premium vehicle categories.
 
-### 💳 Payment Analysis
+### Payment Analysis
 
 - **Uber Pay was the most frequently used payment method**, demonstrating a strong customer preference for digital payments and supporting opportunities for targeted cashback and loyalty programs.
 
-### 📍 Location Analysis
+### Location Analysis
 
 - **Pickup Location ID 186 recorded the highest booking volume**, identifying it as a key demand hotspot for driver allocation and fleet optimization.
 - The **longest recorded trip covered 144.1 km from Pickup Location ID 148 to Drop-off Location ID 61**, highlighting long-distance travel patterns that can be evaluated for pricing and operational efficiency.
 
-### 💰 Revenue & Trip Performance
+### Revenue & Trip Performance
 
 - The **highest recorded booking fare was 563.79**, representing premium-value trips that contribute significantly to revenue despite lower booking frequency.
 - The **average trip duration of 15.86 minutes** indicates that most Uber trips are short to medium-distance journeys, supporting efficient vehicle utilization and faster trip turnover.
 ---
 
-# 💼 Business Recommendations
+# Business Recommendations
 
 Based on the analysis, the following recommendations can improve operational efficiency and customer satisfaction:
 
@@ -256,7 +256,7 @@ Based on the analysis, the following recommendations can improve operational eff
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 - Business Intelligence
 - Power BI
@@ -276,7 +276,7 @@ Based on the analysis, the following recommendations can improve operational eff
 
 ---
 
-# 🎓 Learning Outcomes
+# Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 
@@ -292,7 +292,7 @@ Through this project, I strengthened my understanding of:
 
 ---
 
-# 💡 Future Enhancements
+# Future Enhancements
 
 - Integrate live data refresh using Power BI Service.
 - Add geographical map visualizations.
@@ -302,7 +302,7 @@ Through this project, I strengthened my understanding of:
 
 ---
 
-# 📬 Contact
+# Contact
 
 **Asi Lokesh**
 
